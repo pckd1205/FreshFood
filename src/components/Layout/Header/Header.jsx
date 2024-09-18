@@ -277,7 +277,7 @@ export default function Header() {
 						</li>
 					</ul>
 				</div>
-				{/* navbar for mobile */}
+				
 				<div className="flex items-center gap-4 sm:gap-6">
 					<div className="relative w-10 h-10 sm:w-12 sm:h-12">
 						<button
