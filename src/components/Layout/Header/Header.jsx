@@ -387,7 +387,7 @@ export default function Header() {
 														pathname: "/UserPage",
 														state: { user },
 													}}
-													className="px-6 sm:px-9 py-2 border-2 border-[#FC8019] text-sm sm:text-base font-normal rounded-full hover:opacity-60"
+													className="sm:px-7 py-2 border-2 border-[#FC8019] text-sm sm:text-base font-normal rounded-full hover:opacity-60"
 												>
 													Manage your account
 												</Link>
