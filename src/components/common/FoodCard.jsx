@@ -19,7 +19,7 @@ const FoodCard = ({ item }) => {
 						alt={item.title}
 					/>
 				</figure>
-				<div className="flex flex-col gap-5 mt-5">
+				<div className="flex flex-col gap-5 mt-5 w-60">
 					<h2 className="text-[#202020] text-xl font-medium capitalize line-clamp-1">
 						{item.title}
 					</h2>

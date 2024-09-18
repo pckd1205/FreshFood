@@ -10,7 +10,7 @@ const firebaseConfig = {
 	projectId: "fresh-food-ad397",
 	storageBucket: "fresh-food-ad397.appspot.com",
 	messagingSenderId: "362147341341",
-	appId: "1:362147341341:web:41f9ab04ff49b7364952f4"
+	appId: "1:362147341341:web:41f9ab04ff49b7364952f4",
 };
 
 // Initialize Firebase
